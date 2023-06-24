@@ -209,8 +209,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@watt92imp](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@iWatt992](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@watt92imp](https://www.frontendmentor.io/profile/@watt92imp)
+- Twitter - [@iWatt992](https://www.twitter.com/@iWatt992)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
